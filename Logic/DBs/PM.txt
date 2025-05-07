@@ -1,0 +1,3 @@
+﻿
+
+Scaffold-DbContext "Server=.;Database=MyMoneyA;user id=kollel;password=1234qwe!;TrustServerCertificate=true" Microsoft.EntityFrameworkCore.SqlServer -OutputDir "C:\Users\localadmin\source\repos\a\MoneySystemServerFirst\Logic\DBs" -Namespace "Logic"-force
